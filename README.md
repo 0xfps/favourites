@@ -42,7 +42,7 @@ Favourite projects ⭐.
 > A smart contract that allows users to store tokens and sell to anyone who can wish to redeem the tokens or resell the contract.
 
 
-## TypeScript (Backend)
+## TypeScript & NodeJS (Backend)
 
 > [Weather API](https://github.com/0xfps/weather-api) <br/>
 > API endpoint for getting weather data for different parts of the world.
